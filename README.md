@@ -1,4 +1,4 @@
-flask_debugtoolbar_elasticsearch
+Flask_debugtoolbar_elasticsearch
 ================================
 
 Elasticsearch panel for flask debug toolbar

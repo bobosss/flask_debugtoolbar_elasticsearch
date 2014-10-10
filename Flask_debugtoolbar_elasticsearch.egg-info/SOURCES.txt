@@ -1,5 +1,0 @@
-Flask_debugtoolbar_elasticsearch.egg-info/PKG-INFO
-Flask_debugtoolbar_elasticsearch.egg-info/SOURCES.txt
-Flask_debugtoolbar_elasticsearch.egg-info/dependency_links.txt
-Flask_debugtoolbar_elasticsearch.egg-info/not-zip-safe
-Flask_debugtoolbar_elasticsearch.egg-info/top_level.txt
